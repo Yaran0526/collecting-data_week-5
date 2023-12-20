@@ -9,9 +9,13 @@ The importance of this research question is that by analyzing the poetic works o
 
 This corpus includes 4 files, which are excerpts from poems by 4 female writers. Poetry was chosen as the research object of this project because, among many literary genres, poetry can best reflect the characteristics of language and diction. These four female writers all had an important position in the world literary world in the 19th century.
 they are, respectively:
+
 Sonnets from the Portuguese. It is a collection of 44 love sonnets written by the British poet Elizabeth Barrett Browning (1806.3.6-1861.6.29).
+
 Poems written by the British poet Christina Rossetti (1830.12.5-1894.12.29). It contains her famous poem "Goblin Market" and other poetries.
+
 Poems written by American poet Edna St. Vincent Millay (1892.2.22-1950.10.19). Millay won the 1923 Pulitzer Prize for Poetry.
+
 Poems by Emily Dickinson, Series One. This is an excerpt from the first series of her collection of works written by American poet Emily Dickinson (1830.12.10-1886.5.15).
 
 (2) Target audience and the intended use of the corpus
