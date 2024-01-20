@@ -1,5 +1,5 @@
-# Collecting-Data_Week5
-## 1. Research Question
+# Collecting-Data_individual final assignment
+## 1. Research Question(optional)
 This project uses spacy to analyze the linguistic features of the poetic works of four female writers around the 19th century, such as word choice, syntactic structure, etc., and explore the correlation between these features and female themes (such as self-perception, emotional experience, female identity, etc.).
 
 The importance of this research question is that by analyzing the poetic works of female writers and using spacy for in-depth research, it can help us gain a deeper understanding of female literature, female perspectives, and the manifestation of gender in literary creation. This helps unearth the literary achievements of female writers, expands awareness of female voices and perspectives, and may help eliminate gender bias and promote gender equality in the literary field.
@@ -47,7 +47,3 @@ These tools are applied to a given text for part-of-speech tagging, tokenization
 
 The code handles two file formats: .txt and .csv. The .txt file contains text content, while the .csv file contains metadata information. The CSV file contains some columns, and the code renames one of the columns according to specific needs.
 
-
-(8) The quality checks
-
-The code creates a new DataFrame final_paper_df by merging text and metadata. During this process, only those rows that have both paper content and metadata information are retained, possibly as a quality control method to ensure data integrity and correspondence.
